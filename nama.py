@@ -1,2 +1,2 @@
-nama = "nashrun"
+nama = "ezar"
 print(nama)
